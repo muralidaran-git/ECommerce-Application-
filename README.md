@@ -1,6 +1,6 @@
 <h1 align="center">MERN ECommerce-Application 🚀</h1>
 
-
+![Demo App](mern-crash-course-master/frontend/public/screenshot-for-readme.png)
 
 About This Application:
 
